@@ -38,3 +38,13 @@ section h2 {
     background-color: #f3f4f6;
     border-radius: 10px;
 }
+
+#prosjekter a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: #1f2937;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
